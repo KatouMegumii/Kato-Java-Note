@@ -1,4 +1,4 @@
-package Ch2EverythingIsAnObject;
+package ThinkingInJava4Edition.Exercise.Ch2Exercise;
 
 //跟exercise3本质上是一样的，创建类，再通过类创建具体的对象
 //包含了练习5的内容

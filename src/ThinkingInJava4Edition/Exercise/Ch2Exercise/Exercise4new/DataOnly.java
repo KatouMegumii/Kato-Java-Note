@@ -1,4 +1,4 @@
-package Ch2EverythingIsAnObject.Exercise4new;
+package ThinkingInJava4Edition.Exercise.Ch2Exercise.Exercise4new;
 
 public class DataOnly{
     int i;

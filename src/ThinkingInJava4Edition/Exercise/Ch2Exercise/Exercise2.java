@@ -1,4 +1,4 @@
-package Ch2EverythingIsAnObject;
+package ThinkingInJava4Edition.Exercise.Ch2Exercise;
 
 public class Exercise2 {
     public static void main(String[] args) {

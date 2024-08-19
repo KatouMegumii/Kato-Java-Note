@@ -1,4 +1,4 @@
-package Ch2EverythingIsAnObject;
+package ThinkingInJava4Edition.Exercise.Ch2Exercise;
 
 //创建一个类，包含一个int域和一个char域，它们都没有被初始化，将它们的值打印出来，以验证Java执行了默认初始化。
 
